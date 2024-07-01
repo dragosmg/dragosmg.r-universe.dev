@@ -1,0 +1,15 @@
+[
+    {
+        "package": "rocnp",
+        "url": "https://github.com/dragosmg/rocnp"
+    },
+    {
+        "package": "pdftools",
+        "url": "https://github.com/ropensci/pdftools"
+    },
+    {
+        "package": "stringdist",
+        "url": "https://github.com/markvanderloo/stringdist",
+        "subdir": "pkg"
+    }
+]
