@@ -6,7 +6,7 @@
     {
         "package": "arrow",
         "url" : "https://github.com/apache/arrow/",
-        "subdir": "R"
+        "subdir": "r"
     },
     {
         "package": "solvebio",
