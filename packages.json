@@ -4,6 +4,10 @@
         "url": "https://github.com/dragosmg/rocnp"
     },
     {
+        "package": "solvebio",
+        "url": "https://github.com/solvebio/solvebio-r"
+    },
+    {
         "package": "pdftools",
         "url": "https://github.com/ropensci/pdftools"
     },
