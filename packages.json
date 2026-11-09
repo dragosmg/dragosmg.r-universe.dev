@@ -1,5 +1,9 @@
 [
     {
+        "package": "poissonexact",
+        "url": "https://github.com/GSK-Biostatistics/poissonexact"
+    },
+    {
         "package": "multigrain",
         "url": "https://github.com/GSK-Biostatistics/multigrain"
     },
